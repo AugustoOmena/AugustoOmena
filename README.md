@@ -8,7 +8,8 @@
   <img align="center" alt="Augusto-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Augusto-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Augusto-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Augusto-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1070375209338667111/1070375295594549380/20210411_192544.png">
+  <!-- <img align="right" alt="Augusto-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1070375209338667111/1070375295594549380/20210411_192544.png">-->
+  <img align="right" alt="Augusto-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/3oKIPzVXlzxhAWamNW/giphy.gif">
 </div>
   
   ##
