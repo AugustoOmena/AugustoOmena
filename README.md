@@ -1,4 +1,9 @@
-### Augusto Omena, Desenvolvedor. 
+### Augusto Omena, Desenvolvedor de Software .Net | Fullstack | Java | React | Azure | AWS | Django | Startups | GitHub | Comunidades
+
+- Seja bem vindo ao meu portifólio
+
+- Faço parte da Comunidade Big Valley
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Augusto-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
