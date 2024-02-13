@@ -10,11 +10,6 @@ Sou um desenvolvedor fullstack Autodidata, apaixonado por construir soluções c
 
 <div style="display: inline_block"><br>
 
-**Contato:**
-
-* **LinkedIn:** [https://www.linkedin.com/in/augusto-omena-developer/](https://www.linkedin.com/in/augusto-omena-developer/)
-* **Email:** augusto.n.omena@gmail.com
-
 **Procurando:**
 
 Estou sempre aberto a novos desafios e oportunidades de trabalho. Se você está procurando um desenvolvedor dedicado e versátil, não hesite em entrar em contato!
