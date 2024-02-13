@@ -1,7 +1,23 @@
-### Desenvolvedor de Software Fullstack web e mobile | .Net | Java | React | Azure | Ruby | Javascript | Python | C++
+# Augusto Omena - Desenvolvedor Fullstack .Net
 
-- 🌐 My personal website **https://augustoomena.github.io/Portfolio/**
+Sou um desenvolvedor fullstack Autodidata, apaixonado por construir soluções criaticas e funcionais para web e mobile. Tenho aperfeiçoado meus conhecimentos e trabalhado com diversas tecnologias, incluindo:
 
+* **Frontend:** JavaScript (ES6+), TypeScript, React, HTML5, CSS3 (Intermediário)
+* **Backend:** .NET, Java, Python, Ruby (Básico com APIs, MVC, Cruds e Blobs)
+* **Cloud:** Azure (Costumo usar com os projetos .net)
+
+**Portfolio:** [https://augustoomena.github.io/Portfolio/](https://augustoomena.github.io/Portfolio/)
+
+<div style="display: inline_block"><br>
+
+**Contato:**
+
+* **LinkedIn:** [https://www.linkedin.com/in/augusto-omena-developer/](https://www.linkedin.com/in/augusto-omena-developer/)
+* **Email:** augusto.n.omena@gmail.com
+
+**Procurando:**
+
+Estou sempre aberto a novos desafios e oportunidades de trabalho. Se você está procurando um desenvolvedor dedicado e versátil, não hesite em entrar em contato!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Augusto-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -11,7 +27,7 @@
   <img align="center" alt="Augusto-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Augusto-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <!-- <img align="right" alt="Augusto-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/3oKIPzVXlzxhAWamNW/giphy.gif">-->
-  <img align="right" alt="Augusto-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/tXLpxypfSXvUc/giphy.gif">
+  <img align="right" alt="Augusto-pic" height="150" src="https://media.giphy.com/media/tXLpxypfSXvUc/giphy.gif">
 </div>
   
   ##
@@ -23,12 +39,3 @@
   <a href="https://www.linkedin.com/in/augusto-omena-developer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-
-
-<div style="display: inline_block"><br>
-
-
-  
- 
-
-
