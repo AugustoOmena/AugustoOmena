@@ -1,12 +1,20 @@
 # Augusto Omena - Desenvolvedor Fullstack .Net
 
-Sou um desenvolvedor fullstack Autodidata, apaixonado por construir soluções criaticas e funcionais para web e mobile. Tenho aperfeiçoado meus conhecimentos e trabalhado com diversas tecnologias, incluindo:
+### Sobre mim
 
-* **Frontend:** JavaScript (ES6+), TypeScript, React, HTML5, CSS3 (Intermediário)
-* **Backend:** .NET, Java, Python, Ruby (Básico com APIs, MVC, Cruds e Blobs)
-* **Cloud:** Azure (Costumo usar com os projetos .net)
+**As pessoas dizem que sou:** Autodidata, criativo e bom companheiro de equipe.
 
-**Portfolio:** [https://augustoomena.github.io/Portfolio/](https://augustoomena.github.io/Portfolio/)
+**No meu tempo livre gosto de:** Estudar, Quebrar a vabeça com código, pintar com tinta a óleo, andar de bike, tirar fotos!
+
+### Habilidades
+
+* **Frontend:** Tenho 5 meses aprendizado prático com frontend web, me considero intermediário quando o assunto é o básico (HTML, CSS e JS), mas consigo desenrolar bem legal. Já usei um pouco de tudo (bibliotecas, framewoks), mas geralmente uso html css e js pela facilidade de subir aqui no Git. Aqui voce vai ver eu usando também Spring, Rails, React entre outros...
+  
+* **Backend:** Essa é a minha parte favorita, também já experimentei várias técnologias no backend, e não teria problemas em usar Java, Ruby, Typescript... Mas a que eu mais uso atualmente é o .Net porque ele trás algumas vantágens de otimização de busca no navegador.
+  
+* **Cloud:** Azure é onde eu costumo fazer o deploy de aplicativos .Net, e também utilizo recursos de Bancos de dados SQL Server, serviços de blobs, etc... Eu também posso utilizar sem problemas Mongodb, Postgre, MySql etc..
+
+### Meu Portfolio: [https://augustoomena.github.io/Portfolio/](https://augustoomena.github.io/Portfolio/)
 
 <div style="display: inline_block"><br>
 
@@ -28,9 +36,7 @@ Estou sempre aberto a novos desafios e oportunidades de trabalho. Se você está
   ##
  
 <div> 
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://api.whatsapp.com/send?phone=5524981021079&text=meu%20amigo!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:augusto.n.omena@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/augusto-omena-developer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
 </div>
