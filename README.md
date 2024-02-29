@@ -1,31 +1,43 @@
-# Augusto Omena - Desenvolvedor Fullstack .Net
+<div align="center">
+  <h1>Oi 👋, meu nome é Augusto</h1>
+</div>
+<div align="center">
+  <h3>Desenvolvedor Fullstack .Net</h3>
+</div>
 
-### Sobre mim
+### Um pouco de tudo
+<div style="display: inline_block">
+  <img align="center" alt="Augusto-Js" height="30" width="30" src="https://cdn.iconscout.com/icon/free/png-256/free-angular-3-226070.png?f=webp&amp;w=128">
+  <img align="center" alt="Augusto-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Augusto-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Augusto-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Augusto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Augusto-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Augusto-Ruby" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/6132/6132219.png">
+  <img align="center" alt="Augusto-VS" height="30" width="30" src="https://cdn-icons-png.flaticon.com/128/5968/5968389.png">
+  <img align="center" alt="Augusto-Azure" height="30" width="30" src="https://cdn.iconscout.com/icon/free/png-256/free-azure-1868965-1583129.png?f=webp&amp;w=128">
+  <img align="center" alt="Augusto-Mongo" height="30" width="30" src="https://cdn.iconscout.com/icon/free/png-256/free-mongodb-5-1175140.png?f=webp&amp;w=128">
+  <img align="center" alt="Augusto-MySql" height="30" width="30" src="https://cdn.iconscout.com/icon/free/png-256/free-mysql-3521596-2945040.png?f=webp&amp;w=128">
+  <img align="center" alt="Augusto-SQLServer" height="30" width="30" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/sql-server-5363125-4488914.png?f=webp&amp;w=128">
+  <img align="center" alt="Augusto-AWS" height="30" width="30" src="https://cdn.iconscout.com/icon/free/png-256/free-aws-1869025-1583149.png?f=webp&amp;w=128">
 
-**As pessoas dizem que sou:** Autodidata, criativo e bom companheiro de equipe.
+</div>
 
-**No meu tempo livre gosto de:** Estudar, Quebrar a vabeça com código, pintar com tinta a óleo, andar de bike, tirar fotos!
 
-### Habilidades
+### Sobre mim:
+- Estagiário de Análise e Desenvolvimento de Sistemas no Parque Tecnológico
+- Apaixonado por Backend
+- Adoro estudar
 
-* **Frontend:** Tenho 5 meses aprendizado prático com frontend web, me considero intermediário quando o assunto é o básico (HTML, CSS e JS), mas consigo desenrolar bem legal. Já usei um pouco de tudo (bibliotecas, framewoks), mas geralmente uso html css e js pela facilidade de subir aqui no Git. Aqui voce vai ver eu usando também Spring, Rails, React entre outros...
-  
-* **Backend:** Essa é a minha parte favorita, também já experimentei várias técnologias no backend, e não teria problemas em usar Java, Ruby, Typescript... Mas a que eu mais uso atualmente é o .Net porque ele trás algumas vantágens de otimização de busca no navegador.
-  
-* **Cloud:** Azure é onde eu costumo fazer o deploy de aplicativos .Net, e também utilizo recursos de Bancos de dados SQL Server, serviços de blobs, etc... Eu também posso utilizar sem problemas Mongodb, Postgre, MySql etc..
 
-### Meu Portfolio: [https://augustoomena.github.io/Portfolio/](https://augustoomena.github.io/Portfolio/)
+### Meu Site: [https://augustoomena.github.io/Portfolio/](https://augustoomena.github.io/Portfolio/)
 
 <div style="display: inline_block"><br>
 
-**Procurando:**
-
-Estou sempre aberto a novos desafios e oportunidades de trabalho. Se você está procurando um desenvolvedor dedicado e versátil, não hesite em entrar em contato!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Augusto-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Augusto-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Augusto-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Augusto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Augusto-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Augusto-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
