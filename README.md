@@ -36,15 +36,17 @@
 
 <div style="display: inline_block"><br>
 
-
-<div style="display: inline_block"><br>
+### Principais ferramentas
+<div style="display: inline_block">
   <img align="center" alt="Augusto-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Augusto-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Augusto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Augusto-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Augusto-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <!-- <img align="right" alt="Augusto-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/3oKIPzVXlzxhAWamNW/giphy.gif">-->
+  <img align="center" alt="Augusto-SqlServer" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png">
   <img align="right" alt="Augusto-pic" height="150" src="https://media.giphy.com/media/tXLpxypfSXvUc/giphy.gif">
+  <img align="center" alt="Augusto-VS" height="30" width="30" src="https://cdn-icons-png.flaticon.com/128/5968/5968389.png">
+
 </div>
   
   ##
