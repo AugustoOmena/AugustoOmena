@@ -20,9 +20,11 @@
   <img align="center" alt="Augusto-MySql" height="30" width="30" src="https://cdn.iconscout.com/icon/free/png-256/free-mysql-3521596-2945040.png?f=webp&amp;w=128">
   <img align="center" alt="Augusto-SQLServer" height="30" width="30" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/sql-server-5363125-4488914.png?f=webp&amp;w=128">
   <img align="center" alt="Augusto-AWS" height="30" width="30" src="https://cdn.iconscout.com/icon/free/png-256/free-aws-1869025-1583149.png?f=webp&amp;w=128">
+  <img align="center" alt="Augusto-PHP" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png">
+  <img align="center" alt="Augusto-Python" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/3098/3098090.png">
+  <img align="center" alt="Augusto-SqlServer" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png">
 
 </div>
-
 
 ### Sobre mim:
 - Estagiário de Análise e Desenvolvimento de Sistemas no Parque Tecnológico
