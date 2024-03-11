@@ -29,7 +29,7 @@
 ### Sobre mim:
 - Estagiário de Análise e Desenvolvimento de Sistemas no Parque Tecnológico
 - Apaixonado por Backend
-- Adoro estudar
+- Adoro aprender
 
 
 ### Meu Site: [https://augustoomena.github.io/Portfolio/](https://augustoomena.github.io/Portfolio/)
