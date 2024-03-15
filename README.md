@@ -27,9 +27,9 @@
 </div>
 
 ### Sobre mim:
-- Estagiário de Análise e Desenvolvimento de Sistemas no Parque Tecnológico
-- Apaixonado por Backend
-- Adoro aprender
+- Analista e desenvolvedor de Sistemas
+- Apaixonado por Programar e aprender
+- Estagiando na Prefeitura de Angra dos Reis
 
 
 ### Meu Site: [https://augustoomena.github.io/Portfolio/](https://augustoomena.github.io/Portfolio/)
