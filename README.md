@@ -30,6 +30,7 @@
 - Analista e desenvolvedor de Sistemas
 - Apaixonado por Programar e aprender
 - Estagiando na Prefeitura de Angra dos Reis
+- Eu estou me especializando em C# / .NET
 
 
 ### Meu Site: [https://augustoomena.github.io/Portfolio/](https://augustoomena.github.io/Portfolio/)
