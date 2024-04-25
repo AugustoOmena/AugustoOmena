@@ -5,15 +5,14 @@
   <h3>Desenvolvedor Fullstack .Net</h3>
 </div>
 
-### Meu Site: [https://augustoomena.github.io/Portfolio/](https://augustoomena.github.io/Portfolio/)
 
 ### Sobre mim:
 
-- Estagiário em Análise e desenvolvimento de sistemas no Parque tecnológico do mar
+- Desenvolvedor Trainee na BuiltCode
 - Conhecimento generalista em muitas tecnologias, porém focado em C# / .Net
 - Apaixonado por desenvolvimento, empreendedorismo inovação e startups
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
 
 ### Principal stack:
 <div style="display: inline_block">
@@ -26,10 +25,9 @@
   <img align="center" alt="Augusto-VS" height="30" width="30" src="https://cdn-icons-png.flaticon.com/128/5968/5968389.png">
 </div>
 
-### Também tenho habilidades com:
+### Portfólio:
+- [https://augustoomena.github.io/Portfolio/](https://augustoomena.github.io/Portfolio/)
 
-- Bancos de dados relacionais / não relacionais
-  
   ##
  
 <div> 
