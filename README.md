@@ -8,9 +8,9 @@
 
 ### Sobre mim:
 
-- Desenvolvedor Trainee na BuiltCode
-- Conhecimento generalista em muitas tecnologias, porém focado em C# / .Net
-- Apaixonado por desenvolvimento, empreendedorismo inovação e startups
+- Desenvolvedor na BuiltCode
+- Conhecimento generalista em muitas tecnologias, e Especialista em Angular / .Net
+- Apaixonado em Aprender, Programar e Inovar
 
 <div style="display: inline_block">
 
