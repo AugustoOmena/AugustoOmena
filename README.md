@@ -2,22 +2,23 @@
   <h1>Oi 👋, meu nome é Augusto</h1>
 </div>
 <div align="center">
-  <h3>Desenvolvedor Fullstack .Net | Angular</h3>
+  <h3>Desenvolvedor Backend | Machine Learning Engineer</h3>
 </div>
 
 ### Sobre mim:
 
-- Apaixonado por tecnologia e desenvolvimento de software.
-- Experiência em desenvolvimento de aplicações web usando .Net e Angular.
-- Sempre buscando aprender novas tecnologias e melhorar minhas habilidades.
+- 🎓 Pós-graduando em Machine Learning Engineering na FIAP.
+- 🚀 Foco em desenvolvimento de APIs performáticas (FastAPI) e Cloud (AWS).
+- 💡 Apaixonado por transformar dados em soluções escaláveis.
 
 <div style="display: inline_block">
 
 ### Principal stack:
 <div style="display: inline_block">
-  <img align="center" alt="Augusto-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Augusto-SqlServer" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png">
-  <img align="center" alt="Augusto-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="Augusto-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Augusto-FastAPI" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg">
+  <img align="center" alt="Augusto-AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+  <img align="center" alt="Augusto-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="Augusto-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="right" alt="Augusto-pic" height="150" src="https://media.giphy.com/media/tXLpxypfSXvUc/giphy.gif">
 </div>
